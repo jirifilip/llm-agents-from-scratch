@@ -1,6 +1,6 @@
 # Intro
 
-Simple project for trying to understand how "agentic" LLM frameworks work. This basically lead me to writing my own (and much much worse) `pydantic-ai` library. 
+Simple project for trying to understand how "agentic" LLM frameworks work. This basically lead me to writing my own (very incomplete and much much worse) `pydantic-ai` library. 
 
 Notes:
 - only written as an exploration on how to de-spaghettify some work LLM projects
