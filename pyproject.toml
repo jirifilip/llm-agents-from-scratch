@@ -2,8 +2,11 @@
 name = "llm-agent"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Jiři Filip <wonttell@example.com>"]
 readme = "README.md"
+packages = [
+    {include = "llm_agent", from = "src"}
+]
 
 [tool.poetry.dependencies]
 python = "^3.12"
