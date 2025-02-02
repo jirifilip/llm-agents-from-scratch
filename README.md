@@ -4,7 +4,7 @@ Simple project for trying to understand how "agentic" LLM frameworks work. This 
 
 Notes:
 - only written as an exploration on how to de-spaghettify some work LLM projects
-- the types don't match
+- the typing is incorrect
 - the code isn't that pretty
 - written in one day -> use at your own peril
 - no tests

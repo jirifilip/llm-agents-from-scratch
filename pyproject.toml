@@ -10,7 +10,13 @@ packages = [
 
 [tool.poetry.dependencies]
 python = "^3.12"
+pillow = "^11.1.0"
+pydantic = "^2.10.6"
+anthropic = "^0.45.2"
 
+
+[tool.poetry.group.research.dependencies]
+jupyterlab = "^4.3.5"
 
 [build-system]
 requires = ["poetry-core"]
