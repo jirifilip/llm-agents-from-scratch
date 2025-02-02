@@ -1,0 +1,1 @@
+Data downloaded from here: https://github.com/alexeygrigorev/clothing-dataset-small
