@@ -9,10 +9,6 @@ Notes:
 - written in one day -> use at your own peril
 - no tests
 
-# Usage Examples
+# Usage Example
 
-Entity extraction:
-```python
-
-
-```
+Visit the notebook [here](notebooks/01-basic-usage.py)ł
